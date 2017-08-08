@@ -10,15 +10,15 @@
   "author": "mkg0",
   "license": "MIT",
   "devDependencies": {
-    "directory-named-webpack-plugin": "^2.1.0",
+    "directory-named-webpack-plugin": "2.2.3",
     "jest": "^20.0.4",
-    "prettier": "^1.4.4",
-    "webpack": "^2.6.1"
+    "prettier": "1.5.3",
+    "webpack": "3.4.1"
   },
   "dependencies": {
     "chalk": "^2.0.1",
     "command-line-args": "^4.0.6",
-    "enhanced-resolve": "^3.1.0",
+    "enhanced-resolve": "3.4.1",
     "pkg-dir": "^2.0.0"
   },
   "peerDependencies": {
